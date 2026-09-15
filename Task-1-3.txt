@@ -1,0 +1,5 @@
+N seconds have passed since the start of the day. How many full hours,
+remaining full minutes, and remaining seconds is that?
+
+С начала суток прошло N  секунд. Сколько это полных часов, 
+оставшихся полных минут и оставшихся секунд?
